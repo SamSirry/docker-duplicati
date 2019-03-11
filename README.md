@@ -171,6 +171,7 @@ Below are the instructions for updating containers:
 
 ## Versions
 
+* **11.03.19:** - Rebase to bionic, add rclone.
 * **28.02.19:** - Allow access from all hostnames, clarify info on image tags.
 * **13.01.19:** - Use jq instead of awk in dockerfiles.
 * **11.01.19:** - Multi-arch image.
